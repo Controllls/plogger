@@ -10,7 +10,7 @@
 # 배포
 서버 : aws
 플레이스토어 등록
-![image](https://user-images.githubusercontent.com/53941701/232288295-6bda59f7-6150-4170-bbdf-65e548ae9bc1.png)
+<img src="https://user-images.githubusercontent.com/53941701/232288295-6bda59f7-6150-4170-bbdf-65e548ae9bc1.png" width="200" height="400"/>
 
 # 기술 스택
 Springboot
