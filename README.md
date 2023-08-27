@@ -1,4 +1,10 @@
-# Plogger 프로젝트 
+# DX-Sprint 2주간 앱 출시 Plogger 프로젝트 
+인원 : 기획 1, 프론트엔드 2,백엔드 1
+역할 : 백엔드 개발
+개발 환경 : aws, springboot, mysql
+개발 기간 : 2022.8.4 ~ 2022.8.18
+
+# ScreenShot
 <div>
 <img src="https://user-images.githubusercontent.com/53941701/232288231-3c9df871-f9ac-44e7-a1e3-dc4ff99e1a26.jpeg" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/53941701/232288276-2e6da8b1-e83a-4a72-b4a5-84a477331884.png" width="200" height="400"/>
@@ -7,15 +13,8 @@
 </div>
 2주간 진행한 헤커톤 프로젝트 작품
 
-# 배포
-서버 : aws
-플레이스토어 등록
+# 플레이스토어 배포
 <div>
 <img src="https://user-images.githubusercontent.com/53941701/232288295-6bda59f7-6150-4170-bbdf-65e548ae9bc1.png" width="200" height="400"/>
 </div>
-
-# 기술 스택
-Springboot
-Mysql
-AWS
 
